@@ -1,4 +1,14 @@
-# My Resume
+# 📄 My Digital Resume  
 
-This project is a meticulously designed online resume, prioritizing user experience and visual appeal.  
-Built with HTML,CSS and JS , it aims to present my qualifications in a modern and engaging way.  The clean layout and intuitive navigation make it easy for visitors to quickly find the information they need. 
+Welcome to my **interactive resume**! 🚀 Instead of a boring PDF, why not a dynamic, digital version?  
+
+## 🎯 About Me  
+👋 Hi! I’m [Panagiota], a passionate **[Computer Science Student]** who loves **[creating]**. This repo contains my resume in an interactive and accessible format.  
+
+## 🛠 Technologies Used  
+🔹 **HTML & CSS** – Clean, responsive design  
+🔹 **JavaScript** – Some interactive elements ✨   
+
+## 🚀 View My Resume  
+📌 [Live Resume Here](https://panagiotataxresume.netlify.app/)  
+
